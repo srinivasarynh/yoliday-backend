@@ -1,0 +1,82 @@
+[
+    {
+        "id": "001",
+        "author": "Chinua",
+        "country": "Nigeria",
+        "imageLink": "https://s3-alpha-sig.figma.com/img/3b95/b15a/f8a9b5e1cd1fb2e0095bfcc79ef91e8a?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=FC8PMP3-DGaE2UInCODFHQByPGOEXIkMpN9FLNpsC6zgCe5DnfKBbIgm7nFxmQVVOh8c1CW24xmEGWwCUrHDekVx7zF25RKNx3eTALoUyGgoSV~oJF3M1UYROFgZIRA6A-hxvCGp1GhWxSuUCQk1ClIjRSSzr4tr18YC7pdIgcTgdPBI0xhpiAIBqL9~CS~qaHqQ6RnhQL-7WJwW5QZGkHSynMTbdKFzLGFuwiHbP5yORic5-HfLcCm7eSBaRzEWCI3UcKKZKeCAyZZtaRoAVD80P4lUXjQTB78nc74CpIq43jEXVKrG5eTQ0h88fRLPPznyrx84d91giqN6KKzE7g__",
+        "content": "language: English, pages: 209, year: 1958",
+        "title": "Things Fall Apart"
+    },
+    {
+        "id": "002",
+        "author": "Hans",
+        "country": "Denmark",
+        "imageLink": "https://s3-alpha-sig.figma.com/img/55e0/b10c/0051181a9e3eecaeaf6f5631d2c583c7?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=nRxy3Sy-1WJfKdyYeOmxYfXxTSePD-2vp34nUHmxY1TQpHrS98RX~ivVhwkIJ0rldwy13dvG5IRFW26y159XaU55xf~t4U~lo4l~CZWhcLb17vlHzAB8ARz0FripXLzos63BUvD~FLys4CQgYHm7tTUsph-r8WV-QLmkS9BrlORMKva~fvMcvDbRFF63PMUFUMmoYmAdjLR4V2JRJSsFN5-pRKIB8AC8OwY9f8DnbV9puKrRfkNoHdSs4Rq5CJWqJ6GDtBbQ3Dq~QnY2jiShGTBulWyMoe2Y9MukygvRPR7~c5DALOnRrmZNFQkT~xncxJfDpPhSVkWwd~VoRxKiQQ__",
+        "content": "language: Danish, pages: 784, year: 1836",
+        "title": "Fairy tales"
+    },
+    {
+        "id": "003",
+        "author": "Dante",
+        "country": "Italy",
+        "imageLink": "https://s3-alpha-sig.figma.com/img/a717/90d1/c98e3a7acabd26f4ea21f8c3abc28cd1?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Pax1jmYopP1NDFBlz26Agbe7kS71tISTm-QFoPpOKxjDApLLAg~69In36ZlBH7OPYQGqOkiglnI6pBOXwF8mYNk-7EllEsyj6fG3t1qzbP3daTCWaMF0~7wWvNzclKDHVkSeeEoSyHSII35m4VWJABx6P8~LWmZ96r1klAJ5c28Qa-6c23bBiWMy8-H2Zp68AErLm0lg6mjSi6-Wr5L6cLJmGDpcIP9cu6gAGz31RnUXtXRj1hzczi6jqNBcHbclhswhIH5JnGDx-DbMXvxM6VObaaD34Y~v1w0ApJxDoywt7vVtVRL3FFpCiLrsz8c3S5phYkulFGNJ~nnKnpLCEg__",
+        "content": "language: Italian, pages: 928, year: 1315",
+        "title": "The Divine Comedy"
+    },
+    {
+        "id": "004",
+        "author": "Sumer",
+        "country": "Empire",
+        "imageLink": "https://s3-alpha-sig.figma.com/img/57b5/590d/bb7a90bd3fad6f173e1be4407828cc27?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=UP7t5kn0HhCN3~MGeiDCNoFsz-LcaFLVL83e8fTEEuCyu6RQZM5h1E5tpNYwghjJNCq2li6seq~I0-3RakW4ZyNJdfPKV6RxkX1EzSLC8CLpFkQYYZq1uXgWixIbTxAwh6~jcBSA0-IMVw9ZMZJ9M1XNQqz6LBsDfPNgyb1WgiSkDAamFVRb43PuD7UAdmdPfmttSfjRo5tbj4QoLV541M3HxyIxkf4D-0B0Y1UwX7hEOADFVBQLyCK7uRQZxJYqY8CRB651y4dl2AegDhLw-aX8QftD3TsD9Vaw7Z1N2zrpApel6udLxjNvXHsReM7HzhK0Xygcyea5hUksAYUbbQ__",
+        "content": "language: Akkadian, pages: 160, year: 1700",
+        "title": "The Epic Of Gilgamesh"
+    },
+    {
+        "id": "005",
+        "author": "Achaemenid",
+        "country": "Empire",
+        "imageLink": "https://s3-alpha-sig.figma.com/img/3292/1b54/a1967de10d5815717b9e4c5c255f4c17?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gA6TT505dnG7S2xdAk9Re94S2oVHjP5IfpY-oZ5cQ3wMxsiHVTcpUygmbBJGV5UE9vKWEulxNuConkDSUr72tIYRDhikCH9wEzUihKSbd-oFRvNPkZ7nd9xCaQe~y32hISq6P4af6s2rRaNAEyCD5M-B~ir6Mtlc20tkaGy0-a9IpEN3DrMVTYgFWLqjJ-SFlzfQVTS3gR5rQithlzZJkI51CWoKqkKD-vntPxju~OTRwQf-WYk0kATtnhjWLcxNA54N3aol-Ql2wO8bbvzWm7bOW47rfaoqJLDJdYBYu5Y1g0yT3ga50Ef2QGV13PBcbLt2aSa-LODfX~5bIPjegg__",
+        "content": "language: Hebrew, pages: 176, year: 1760",
+        "title": "The Book Of Job"
+    },
+    {
+        "id": "006",
+        "author": "Ara",
+        "country": "Egypt",
+        "imageLink": "https://s3-alpha-sig.figma.com/img/3b95/b15a/f8a9b5e1cd1fb2e0095bfcc79ef91e8a?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=FC8PMP3-DGaE2UInCODFHQByPGOEXIkMpN9FLNpsC6zgCe5DnfKBbIgm7nFxmQVVOh8c1CW24xmEGWwCUrHDekVx7zF25RKNx3eTALoUyGgoSV~oJF3M1UYROFgZIRA6A-hxvCGp1GhWxSuUCQk1ClIjRSSzr4tr18YC7pdIgcTgdPBI0xhpiAIBqL9~CS~qaHqQ6RnhQL-7WJwW5QZGkHSynMTbdKFzLGFuwiHbP5yORic5-HfLcCm7eSBaRzEWCI3UcKKZKeCAyZZtaRoAVD80P4lUXjQTB78nc74CpIq43jEXVKrG5eTQ0h88fRLPPznyrx84d91giqN6KKzE7g__",
+        "content": "language: Arabic, pages: 288, year: 1200",
+        "title": "One Thousand Days"
+    },
+    {
+        "id": "007",
+        "author": "Norse",
+        "country": "Iceland",
+        "imageLink": "https://s3-alpha-sig.figma.com/img/55e0/b10c/0051181a9e3eecaeaf6f5631d2c583c7?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=nRxy3Sy-1WJfKdyYeOmxYfXxTSePD-2vp34nUHmxY1TQpHrS98RX~ivVhwkIJ0rldwy13dvG5IRFW26y159XaU55xf~t4U~lo4l~CZWhcLb17vlHzAB8ARz0FripXLzos63BUvD~FLys4CQgYHm7tTUsph-r8WV-QLmkS9BrlORMKva~fvMcvDbRFF63PMUFUMmoYmAdjLR4V2JRJSsFN5-pRKIB8AC8OwY9f8DnbV9puKrRfkNoHdSs4Rq5CJWqJ6GDtBbQ3Dq~QnY2jiShGTBulWyMoe2Y9MukygvRPR7~c5DALOnRrmZNFQkT~xncxJfDpPhSVkWwd~VoRxKiQQ__",
+        "content": "language: Old Norse, pages: 384, year: 1350",
+        "title": "Njl's Saga"
+    },
+    {
+        "id": "008",
+        "author": "Jane",
+        "country": "UK",
+        "imageLink": "https://s3-alpha-sig.figma.com/img/a717/90d1/c98e3a7acabd26f4ea21f8c3abc28cd1?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Pax1jmYopP1NDFBlz26Agbe7kS71tISTm-QFoPpOKxjDApLLAg~69In36ZlBH7OPYQGqOkiglnI6pBOXwF8mYNk-7EllEsyj6fG3t1qzbP3daTCWaMF0~7wWvNzclKDHVkSeeEoSyHSII35m4VWJABx6P8~LWmZ96r1klAJ5c28Qa-6c23bBiWMy8-H2Zp68AErLm0lg6mjSi6-Wr5L6cLJmGDpcIP9cu6gAGz31RnUXtXRj1hzczi6jqNBcHbclhswhIH5JnGDx-DbMXvxM6VObaaD34Y~v1w0ApJxDoywt7vVtVRL3FFpCiLrsz8c3S5phYkulFGNJ~nnKnpLCEg__",
+        "content": "language: English, pages: 226, year: 1813",
+        "title": "Pride and Prejudice"
+    },
+    {
+        "id": "009",
+        "author": "Balzac",
+        "country": "France",
+        "imageLink": "https://s3-alpha-sig.figma.com/img/57b5/590d/bb7a90bd3fad6f173e1be4407828cc27?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=UP7t5kn0HhCN3~MGeiDCNoFsz-LcaFLVL83e8fTEEuCyu6RQZM5h1E5tpNYwghjJNCq2li6seq~I0-3RakW4ZyNJdfPKV6RxkX1EzSLC8CLpFkQYYZq1uXgWixIbTxAwh6~jcBSA0-IMVw9ZMZJ9M1XNQqz6LBsDfPNgyb1WgiSkDAamFVRb43PuD7UAdmdPfmttSfjRo5tbj4QoLV541M3HxyIxkf4D-0B0Y1UwX7hEOADFVBQLyCK7uRQZxJYqY8CRB651y4dl2AegDhLw-aX8QftD3TsD9Vaw7Z1N2zrpApel6udLxjNvXHsReM7HzhK0Xygcyea5hUksAYUbbQ__",
+        "content": "language: French, pages: 443, year: 1835",
+        "title": "Le Pre Goriot"
+    },
+    {
+        "id": "010",
+        "author": "Samuel",
+        "country": "Ireland",
+        "imageLink": "https://s3-alpha-sig.figma.com/img/3292/1b54/a1967de10d5815717b9e4c5c255f4c17?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gA6TT505dnG7S2xdAk9Re94S2oVHjP5IfpY-oZ5cQ3wMxsiHVTcpUygmbBJGV5UE9vKWEulxNuConkDSUr72tIYRDhikCH9wEzUihKSbd-oFRvNPkZ7nd9xCaQe~y32hISq6P4af6s2rRaNAEyCD5M-B~ir6Mtlc20tkaGy0-a9IpEN3DrMVTYgFWLqjJ-SFlzfQVTS3gR5rQithlzZJkI51CWoKqkKD-vntPxju~OTRwQf-WYk0kATtnhjWLcxNA54N3aol-Ql2wO8bbvzWm7bOW47rfaoqJLDJdYBYu5Y1g0yT3ga50Ef2QGV13PBcbLt2aSa-LODfX~5bIPjegg__",
+        "content": "language: English, pages: 256, year: 1952",
+        "title": "Molloy, Malone Dies"
+    }
+]
